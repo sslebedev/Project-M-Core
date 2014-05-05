@@ -1,0 +1,8 @@
+Unity/Temp/*
+Unity/Library/cache/*
+Unity/Library/previews/*
+Unity/Library/ScriptAssemblies/*
+*.suo
+*.user
+*.pidb
+*.userprefs
